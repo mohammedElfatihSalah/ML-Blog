@@ -10,6 +10,7 @@ https://mohammedElfatihSalah.github.io/ML-Blog/
 
 [Name]
 [Date]
+[Contacts]
 _powered by [fastpages](https://github.com/fastai/fastpages)_
 
 
