@@ -8,6 +8,7 @@ https://mohammedElfatihSalah.github.io/ML-Blog/
 
 # My Blog
 
+[Name]
 
 _powered by [fastpages](https://github.com/fastai/fastpages)_
 
